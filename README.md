@@ -1,1 +1,1 @@
-# ukb_losartan_gxe
+Gene-environment interaction analysis of losartan users in the UK Biobank
